@@ -3,11 +3,11 @@
 
 # Hi there, 👋
   
-   👀 LshuBack's Github (I'm SH)
+   👀 zxhsh07's Github (I'm SH)
   
    🌱 I’m Korean Student Developer
   
-   📫 Contect Me : Lshu#6194
+   📫 Contect Me : 시후#3785
   
 </div>
 
@@ -23,13 +23,13 @@
 
 <div align=center>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LshuBack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LshuBack&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxhsh07&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxhsh07&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLshuBack&count_bg=%23C725FF&title_bg=%232122FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzxhsh07&count_bg=%23C725FF&title_bg=%232122FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
