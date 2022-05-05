@@ -24,8 +24,7 @@
 <div align=center>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxhsh07&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxhsh07&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxhsh07&layout=compact&theme=vue)
 </div>
 
 <div align=center>
